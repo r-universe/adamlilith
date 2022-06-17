@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "omnibus"]
+	path = omnibus
+	url = https://github.com/adamlilith/omnibus
+	shallow = true
+	registered = true
+[submodule "statisfactory"]
+	path = statisfactory
+	url = https://github.com/adamlilith/statisfactory
+	shallow = true
+	registered = true

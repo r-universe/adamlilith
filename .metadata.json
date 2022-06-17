@@ -1,0 +1,10 @@
+[
+  {
+    "package": "omnibus",
+    "oncran": true
+  },
+  {
+    "package": "statisfactory",
+    "oncran": true
+  }
+]
