@@ -1,5 +1,9 @@
 [
   {
+    "package": "enmSdmX",
+    "oncran": true
+  },
+  {
     "package": "omnibus",
     "oncran": true
   },
