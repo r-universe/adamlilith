@@ -5,6 +5,9 @@
 [submodule "enmSdmX"]
 	path = enmSdmX
 	url = https://github.com/adamlilith/enmsdmx
+[submodule "fasterRaster"]
+	path = fasterRaster
+	url = https://github.com/adamlilith/fasterraster
 [submodule "omnibus"]
 	path = omnibus
 	url = https://github.com/adamlilith/omnibus
